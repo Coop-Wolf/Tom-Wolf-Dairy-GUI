@@ -1,0 +1,11 @@
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.csproj.AssemblyReference.cache
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.Properties.Resources.resources
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.csproj.GenerateResource.cache
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.csproj.CoreCompileInputs.cache
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\bin\Debug\BreedingReportGUI.exe.config
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\bin\Debug\BreedingReportGUI.exe
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\bin\Debug\BreedingReportGUI.pdb
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.exe
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.pdb
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\BreedingReportGUI.exe.config
+C:\Users\coope\OneDrive\Documents\MSU-Computer Science Clases\CMPS-5113-APL\BreedingReportGUI\obj\Debug\Form1.resources
